@@ -1,0 +1,13 @@
+body::before {
+    display: block;
+    height: 100px;
+    content: "";
+}
+
+#CAROUSEL img {
+    width: 50%;
+}
+
+#CAROUSEL .carousel-control-next-icon {
+    color: red;
+}
